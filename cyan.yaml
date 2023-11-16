@@ -1,0 +1,10 @@
+username: kirinnee
+name: c-cli
+description: Template to create C Command Line Interfaces
+project: https://github.com/kirinnee/cyanprint-c-cli
+source: https://github.com/kirinnee/cyanprint-c-cli
+email: kirinnee97@gmail.com
+tags: []
+readme: cyan/README.MD
+processors: ["cyan/default"]
+plugins: []
